@@ -26,8 +26,8 @@ Der aktuelle Projektstand kann live im Web getestet werden:
 }
 ```
 * Die Anwendung wird in *Android Studio* in eine Android-Anwendung gepackt (damit sie offline funktioniert). Dabei wird ein ChromeBrowser-Objekt erzeugt, das die statischen Seiten der Anwendung öffnet und nutzbar macht. Zum Schluss wird eine installierbare APK-Datei erzeugt.
-
-* Hier auf Github ist der Code der statischen Anwendung publiziert, der dann in eine Android-Anwendung gepackt wird.
+* Daneben soll auch eine Desktop-Version mit electronJS erstellt werden.
+* Hier auf Github ist der Code der statischen Anwendung publiziert, der dann in eine Android-Anwendung oder electron-Anwendung gepackt wird.
 
 ## Installation
 * Beschreibung folgt, sobald Anwendung für Produktivbetrieb geeignet ist
