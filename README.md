@@ -43,6 +43,7 @@ Der aktuelle Projektstand kann live im Web getestet werden:
 * [ ] Abgleichen mit Empfehlungen des Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe
 * [ ] mit Android Studio eine Android App daraus bauen
 * [ ] APK-Datei in App-Stores bringen
+* [ ] Code entschlacken (JS, w3CSS-Datei)
 
 
 ## Projektstand
