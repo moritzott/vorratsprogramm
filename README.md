@@ -10,6 +10,7 @@ Namensgeber für die Anwendung ist die Figur Hermann Lohse aus Loriots Film *Pap
 
 ## Live Demo
 Der aktuelle Projektstand kann live im Web getestet werden:
+[Live-Demo](https://moritzott.github.io/vorratsprogramm/)
 
 ## Technische Informationen
 <!-- Speicherung in LocalStorage -->
