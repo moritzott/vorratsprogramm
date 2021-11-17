@@ -40,3 +40,16 @@ input[type="button"]{
     max-width: 30%;
 }
 
+/* Different Button Size and Font Size on mobile devices */
+@media screen and (max-width: 480px){
+    #closeAddModalBottom, #addProductToStockButton, #closeStockModalBottom, #closeInfoButtonBottom,
+    #closeEraseStockConfirmation, #confirmEraseStockConfirmation, #closeCriticalModalBottom,
+    #deleteStopButton, #deleteConfirmButton, #closeProductDeletedNotification, 
+    #closeProductAddedNotification, #closeStockDeletedNotification,
+    #closeUpdateModalBottom, #updateProductButton, #closeProductHasBeenUpdated,
+    #closeTipsModalBottom, #confirmFillInRequiredInfos {
+        display: inline;
+        max-width: 48%;
+        font-size: small;
+}
+}
