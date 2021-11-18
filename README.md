@@ -47,7 +47,7 @@ Der aktuelle Projektstand kann live im Web getestet werden:
 
 
 ## Projektstand
-* im Aufbau (Anfang)
+* bereit für Testmodus
 
 ## Version
-H. Lohse Vorratsverwaltung & Warenmanagement SPA v0.0.1-alpha
+H. Lohse Vorratsverwaltung & Warenmanagement SPA v0.0.1-beta
